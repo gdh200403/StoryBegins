@@ -1,0 +1,24 @@
+﻿  源.c
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\List.h(65,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\List.h(79,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\List.h(95,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\List.h(104,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(291,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(291,11): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(321,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(321,11): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(350,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(350,11): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(397,28): warning C4047: “函数”:“FUN (__cdecl *)”与“void (__cdecl *)(STU *)”的间接级别不同
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(397,20): warning C4022: “foreach”: 指针与实参 2 不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(427,12): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(441,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(441,10): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(472,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(472,10): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(512,12): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(592,36): warning C4047: “函数”:“FUN_fp (__cdecl *)”与“void (__cdecl *)(STU *,FILE *)”的间接级别不同
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(592,28): warning C4022: “foreach_fp”: 指针与实参 3 不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(606,36): warning C4047: “函数”:“FUN_fp (__cdecl *)”与“void (__cdecl *)(STU *,FILE *)”的间接级别不同
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\源.c(606,28): warning C4022: “foreach_fp”: 指针与实参 3 不匹配
+  学生信息管理系统.vcxproj -> D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统\x64\Debug\学生信息管理系统.exe

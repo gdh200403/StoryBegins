@@ -1,0 +1,86 @@
+﻿  stuList.c
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\List.h(69,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\List.h(83,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\List.h(99,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\List.h(108,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(24,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(24,9): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(61,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(61,9): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(97,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(97,9): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(160,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(174,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(174,8): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(213,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(213,8): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(190,11): warning C4101: “pos”: 未引用的局部变量
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(239,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(231,9): warning C4101: “id”: 未引用的局部变量
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(300,35): warning C4047: “函数”:“FUN_fp (__cdecl *)”与“void (__cdecl *)(STU *,FILE *)”的间接级别不同
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(300,27): warning C4022: “foreach_fp1”: 指针与实参 3 不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(342,35): warning C4047: “函数”:“FUN_fp (__cdecl *)”与“void (__cdecl *)(STU *,FILE *)”的间接级别不同
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(342,27): warning C4022: “foreach_fp1”: 指针与实参 3 不匹配
+  源.c
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\List.h(69,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\List.h(83,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\List.h(99,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\List.h(108,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(24,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(24,9): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(61,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(61,9): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(97,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(97,9): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(160,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(174,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(174,8): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(213,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“byte *”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(213,8): message : 请考虑在格式字符串中使用“%hhd”
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(190,11): warning C4101: “pos”: 未引用的局部变量
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(239,10): warning C4018: “>”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(231,9): warning C4101: “id”: 未引用的局部变量
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(300,35): warning C4047: “函数”:“FUN_fp (__cdecl *)”与“void (__cdecl *)(STU *,FILE *)”的间接级别不同
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(300,27): warning C4022: “foreach_fp1”: 指针与实参 3 不匹配
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(342,35): warning C4047: “函数”:“FUN_fp (__cdecl *)”与“void (__cdecl *)(STU *,FILE *)”的间接级别不同
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\stuList.c(342,27): warning C4022: “foreach_fp1”: 指针与实参 3 不匹配
+  正在生成代码...
+源.obj : error LNK2005: IsInOrder 已经在 stuList.obj 中定义
+源.obj : error LNK2005: addList_h 已经在 stuList.obj 中定义
+源.obj : error LNK2005: addList_order_id 已经在 stuList.obj 中定义
+源.obj : error LNK2005: addList_pos 已经在 stuList.obj 中定义
+源.obj : error LNK2005: addList_t 已经在 stuList.obj 中定义
+源.obj : error LNK2005: addStuListFile 已经在 stuList.obj 中定义
+源.obj : error LNK2005: addStuList_order_id 已经在 stuList.obj 中定义
+源.obj : error LNK2005: addStuList_position 已经在 stuList.obj 中定义
+源.obj : error LNK2005: checkID 已经在 stuList.obj 中定义
+源.obj : error LNK2005: clearStuListFile 已经在 stuList.obj 中定义
+源.obj : error LNK2005: createNode 已经在 stuList.obj 中定义
+源.obj : error LNK2005: createStu 已经在 stuList.obj 中定义
+源.obj : error LNK2005: createStuList_file 已经在 stuList.obj 中定义
+源.obj : error LNK2005: createStuList_head 已经在 stuList.obj 中定义
+源.obj : error LNK2005: createStuList_order_id 已经在 stuList.obj 中定义
+源.obj : error LNK2005: createStuList_tail 已经在 stuList.obj 中定义
+源.obj : error LNK2005: deleteNode_pos 已经在 stuList.obj 中定义
+源.obj : error LNK2005: deleteStu_by_id 已经在 stuList.obj 中定义
+源.obj : error LNK2005: deleteStu_id 已经在 stuList.obj 中定义
+源.obj : error LNK2005: deleteStu_position 已经在 stuList.obj 中定义
+源.obj : error LNK2005: destrList 已经在 stuList.obj 中定义
+源.obj : error LNK2005: empty 已经在 stuList.obj 中定义
+源.obj : error LNK2005: failedNum 已经在 stuList.obj 中定义
+源.obj : error LNK2005: findStu 已经在 stuList.obj 中定义
+源.obj : error LNK2005: foreach 已经在 stuList.obj 中定义
+源.obj : error LNK2005: foreach_fp1 已经在 stuList.obj 中定义
+源.obj : error LNK2005: initList 已经在 stuList.obj 中定义
+源.obj : error LNK2005: printHeader 已经在 stuList.obj 中定义
+源.obj : error LNK2005: printStu 已经在 stuList.obj 中定义
+源.obj : error LNK2005: printStuList 已经在 stuList.obj 中定义
+源.obj : error LNK2005: reWriteStuListFile 已经在 stuList.obj 中定义
+源.obj : error LNK2005: rearrange 已经在 stuList.obj 中定义
+源.obj : error LNK2005: scoreAve 已经在 stuList.obj 中定义
+源.obj : error LNK2005: scoreMax 已经在 stuList.obj 中定义
+源.obj : error LNK2005: searchStu 已经在 stuList.obj 中定义
+源.obj : error LNK2005: showMenu 已经在 stuList.obj 中定义
+源.obj : error LNK2005: statistics 已经在 stuList.obj 中定义
+源.obj : error LNK2005: writeStu 已经在 stuList.obj 中定义
+D:\Personal\8作业\计算机程序设计A\vs\学生信息管理系统 - 副本\x64\Debug\学生信息管理系统.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

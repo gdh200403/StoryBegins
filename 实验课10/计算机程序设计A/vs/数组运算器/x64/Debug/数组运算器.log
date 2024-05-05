@@ -1,0 +1,14 @@
+﻿  9_Arrange.c
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(18,2): warning C4013: “system”未定义；假设外部返回 int
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(78,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(80,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(97,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(111,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(112,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(126,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(128,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(136,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(138,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(146,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Personal\8作业\计算机程序设计A\vs\数组运算器\9_Arrange.c(148,20): warning C4018: “<”: 有符号/无符号不匹配
+  数组运算器.vcxproj -> D:\Personal\8作业\计算机程序设计A\vs\数组运算器\x64\Debug\数组运算器.exe
